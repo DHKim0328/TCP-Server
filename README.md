@@ -1,3 +1,4 @@
+    //TCP 서버
     #define _WINSOCK_DEPRECATED_NO_WARNINGS
     #include <winsock2.h>
     #include <iostream>
